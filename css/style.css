@@ -100,7 +100,7 @@ li[data-icon="job-role"]::before {
     width: 20px;
     height: 20px;
 
-    background-image: url("/images/icons/user.svg");
+    background-image: url("../images/icons/user.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -115,7 +115,7 @@ li[data-icon="location"]::before {
     width: 20px;
     height: 20px;
 
-    background-image: url("/images/icons/map-marker-alt.svg");
+    background-image: url("../images/icons/map-marker-alt.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -130,7 +130,7 @@ li[data-icon="phone"]::before {
     width: 20px;
     height: 20px;
 
-    background-image: url("/images/icons/phone.svg");
+    background-image: url("../images/icons/phone.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -145,7 +145,7 @@ li[data-icon="email"]::before {
     width: 20px;
     height: 20px;
 
-    background-image: url("/images/icons/envelope.svg");
+    background-image: url("../images/icons/envelope.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -160,7 +160,7 @@ li[data-icon="github"]::before {
     width: 20px;
     height: 20px;
 
-    background-image: url("/images/icons/brands/github.svg");
+    background-image: url("../images/icons/brands/github.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -175,7 +175,7 @@ li[data-icon="portfolio"]::before {
     width: 20px;
     height: 20px;
 
-    background-image: url("/images/icons/globe.svg");
+    background-image: url("../images/icons/globe.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -195,7 +195,7 @@ h2[data-icon="tool"]::before {
     width: 24px;
     height: 20px;
 
-    background-image: url("/images/icons/tools.svg");
+    background-image: url("../images/icons/tools.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -210,7 +210,7 @@ h2[data-icon="soft-skill"]::before {
     width: 24px;
     height: 20px;
 
-    background-image: url("/images/icons/handshake.svg");
+    background-image: url("../images/icons/handshake.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -225,7 +225,7 @@ h2[data-icon="summary"]::before {
     width: 24px;
     height: 20px;
 
-    background-image: url("/images/icons/users.svg");
+    background-image: url("../images/icons/users.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -240,7 +240,7 @@ h2[data-icon="projects"]::before {
     width: 24px;
     height: 20px;
 
-    background-image: url("/images/icons/laptop-code.svg");
+    background-image: url("../images/icons/laptop-code.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -255,7 +255,7 @@ h2[data-icon="experience"]::before {
     width: 24px;
     height: 20px;
 
-    background-image: url("/images/icons/briefcase.svg");
+    background-image: url("../images/icons/briefcase.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -270,7 +270,7 @@ h2[data-icon="education"]::before {
     width: 24px;
     height: 20px;
 
-    background-image: url("/images/icons/book-open-reader.svg");
+    background-image: url("../images/icons/book-open-reader.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -285,7 +285,7 @@ time[data-icon="calendar"]::before {
     width: 24px;
     height: 20px;
 
-    background-image: url("/images/icons/calendar-days.svg");
+    background-image: url("../images/icons/calendar-days.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
@@ -304,7 +304,7 @@ a[data-icon="facebook"]::before {
     width: 48px;
     height: 48px;
 
-    background-image: url("/images/icons/brands/facebook.svg");
+    background-image: url("../images/icons/brands/facebook.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 }
@@ -317,7 +317,7 @@ a[data-icon="github"]::before {
     width: 48px;
     height: 48px;
 
-    background-image: url("/images/icons/brands/github.svg");
+    background-image: url("../images/icons/brands/github.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 }
@@ -337,7 +337,7 @@ a[data-icon="linkedin"]::before {
     width: 48px;
     height: 48px;
 
-    background-image: url("/images/icons/brands/linkedin.svg");
+    background-image: url("../images/icons/brands/linkedin.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 }
@@ -350,7 +350,7 @@ a[data-icon="portfolio"]::before {
     width: 48px;
     height: 48px;
 
-    background-image: url("/images/icons/globe.svg");
+    background-image: url("../images/icons/globe.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 }
