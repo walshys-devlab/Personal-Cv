@@ -100,7 +100,7 @@ li[data-icon="job-role"]::before {
     width: 20px;
     height: 20px;
 
-    background-image: url("icons/user.svg");
+    background-image: url("images/icons/user.svg");
     background-size: contain; /* scales image properly */
     background-repeat: no-repeat;
 
