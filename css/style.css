@@ -577,4 +577,8 @@ footer {
     .sidebar {
         height: 80%;
     }
+
+   footer {
+      color: white;
+   }
 }
