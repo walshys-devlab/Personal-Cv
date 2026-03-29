@@ -565,6 +565,7 @@ footer {
     place-items: center;
     gap: 1rem;
     padding: 2rem;
+    color: white;
     background-color: var(--bg-progress);
 }
 
@@ -577,12 +578,4 @@ footer {
     .sidebar {
         height: 80%;
     }
-
-   footer p {
-      color: white;
-   }
-
-   .icon a{
-      color: white;
-   }
 }
